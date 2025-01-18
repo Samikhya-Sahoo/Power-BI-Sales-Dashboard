@@ -4,9 +4,11 @@ This repository contains a **Sales Insight Dashboard** created in Power BI to pr
 
 ---
 
+
 ## Dashboard Screenshot
 
 ![Sales Insight Dashboard](https://github.com/Samikhya-Sahoo/Financial-Dashboard-in-Power-BI/blob/main/Sales_Insight_Dashboard.png)
+
 
 ---
 
